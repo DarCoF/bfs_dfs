@@ -1,0 +1,5 @@
+# This file is used internally by FFMPEG.
+file 'file:F:/TheRabbitHole/VlogDeUnNerd/animations-code/video-11/videos/1080p60/partial_movie_files/CurveFittingGraph/1413466013_3031499721_223132457.mp4'
+file 'file:F:/TheRabbitHole/VlogDeUnNerd/animations-code/video-11/videos/1080p60/partial_movie_files/CurveFittingGraph/1672018281_1865153241_419725386.mp4'
+file 'file:F:/TheRabbitHole/VlogDeUnNerd/animations-code/video-11/videos/1080p60/partial_movie_files/CurveFittingGraph/1672018281_671692341_2607165593.mp4'
+file 'file:F:/TheRabbitHole/VlogDeUnNerd/animations-code/video-11/videos/1080p60/partial_movie_files/CurveFittingGraph/1672018281_125286499_4287873130.mp4'
